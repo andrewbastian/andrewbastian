@@ -1,14 +1,14 @@
-<h1 align="center">Hey Young World! &nbsp; 🪩</h1>
+<h1 align="center">Hey&nbsp;&nbsp;W🪩rld!&nbsp;</h1>
 
-<h5 align="center">⟨Web Developer⟩</h5>
-<h5 align="center">⟨NeoVimgelist⟩</h5>
-<h5 align="center">⟨Renderer of mesh⟩</h5>
-<h5 align="center">⟨Clacker of keys⟩</h5>
-<h5 align="center">⟨Surfer of sine waves⟩</h5>
+<h5 align="center">⟨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⟩</h5>
+<h5 align="center">⟨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NeoVimgelist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⟩</h5>
+<h5 align="center">⟨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renderer of mesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⟩</h5>
+<h5 align="center">⟨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clacker of keys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⟩</h5>
+<h5 align="center">⟨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surfer of sine waves&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⟩</h5>
 
 <img height="180em" align="right" src="https://media.githubusercontent.com/media/andrewbastian/2020portfolio/master/src/assets/Com64Loading.gif"/>
 
-### ⏚ &nbsp;Tech Stack&nbsp; ⏚
+### ⏚&nbsp;Tech&nbsp;Stack&nbsp;⏚
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=FFA518)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -34,7 +34,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![SketchUp](https://img.shields.io/badge/-SketchUp-05122A?style=flat&logo=SketchUp)
 
-### ⏛ &nbsp;GitHub Analytics&nbsp; ⏛
+### ⏛&nbsp;GitHub&nbsp;Analytics&nbsp;⏛
 
 <p align="center">
 <a href="https://github.com/andrewbastian">
@@ -44,5 +44,5 @@
 </p>
 
 
-📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/andrew-bastian)
+[Check out my portfolio over here](https://www.andrewbastian.com/)
 
