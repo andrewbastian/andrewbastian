@@ -2,6 +2,8 @@
 
 Seattle based Full-Stack Web Developer
 
+<img height="180em" align="right" src="https://media.githubusercontent.com/media/andrewbastian/2020portfolio/master/src/assets/Com64Loading.gif"/>
+
 ### 🛠 &nbsp;Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=FFA518)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents&logoColor=563D7C)&nbsp;
