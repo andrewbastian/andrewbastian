@@ -1,6 +1,10 @@
-<h1 align="center">Hey Young World 👋</h1>
+<h1 align="center">Hey Young World! &nbsp; 🪩</h1>
 
-<h3 align="center">Seattle based Full-Stack Web Developer</h3>
+<h5 align="center">⟨Web Developer⟩</h5>
+<h5 align="center">⟨NeoVimgelist⟩</h5>
+<h5 align="center">⟨Renderer of mesh⟩</h5>
+<h5 align="center">⟨Clacker of keys⟩</h5>
+<h5 align="center">⟨Surfer of sine waves⟩</h5>
 
 <img height="180em" align="right" src="https://media.githubusercontent.com/media/andrewbastian/2020portfolio/master/src/assets/Com64Loading.gif"/>
 
